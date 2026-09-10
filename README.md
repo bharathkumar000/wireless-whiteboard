@@ -3,6 +3,8 @@
 
 An interactive, zero-latency wireless sketching system powered by an **ESP32** microcontroller and an **ST7735 1.8" TFT display (128x160)**. Draw directly from any phone, tablet, or desktop web browser using a smooth, responsive HTML5 canvas touch interface, and watch your sketches render on the hardware screen instantly over Wi-Fi.
 
+📖 **For detailed step-by-step assembly, uploading, and operation instructions, see the [Usage & User Guide](USAGE_GUIDE.md).**
+
 ---
 
 ## 🌟 Key Features
